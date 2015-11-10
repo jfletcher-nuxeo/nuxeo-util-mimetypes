@@ -1,3 +1,3 @@
 # Attention
 
-This project has moved to [nuxeo-sandbox/nuxeo-util-mimetypes](nuxeo-sandbox/nuxeo-util-mimetypes).
+This project has moved to [nuxeo-sandbox/nuxeo-util-mimetypes](https://github.com/nuxeo-sandbox/nuxeo-util-mimetypes).
